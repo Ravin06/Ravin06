@@ -24,8 +24,8 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ravin06&theme=radical)
 
-
-
+## Codewars
+[![Badge](https://www.codewars.com/users/P3RPL3X/badges/micro)](https://www.codewars.com/users/P3RPL3X/)
 
 
 
