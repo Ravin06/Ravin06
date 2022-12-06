@@ -1,10 +1,16 @@
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=roboto&color=%4568FF&size=18&vCenter=true&height=16&lines=Hi+there%2C+I%27m+Ravin)
 
-![](https://visitor-badge.glitch.me/badge?page_id=Ravin06.Ravin06)
+[![](https://visitcount.itsvg.in/api?id=ravin06&label=Profile%20Views&color=12&icon=2&pretty=true)](https://visitcount.itsvg.in)
 
-## Skills
-### Softwares and IDEs
+# 💫 About Me:
+Currently a student<br>Interested in Cybersecurity and Programming
+
+
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ravin-nagpal-b573a9224) 
+
+# 💻 Tech Stack:
 ![TOR](https://img.shields.io/badge/tor-%237E4798.svg?style=for-the-badge&logo=tor-project&logoColor=white)
 ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
@@ -17,15 +23,15 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Replit](https://img.shields.io/badge/Replit-DD1200?style=for-the-badge&logo=Replit&logoColor=white)
 
-  
-  
-
-![Ravin06's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ravin06&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ravin06&theme=radical)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=ravin06&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=ravin06&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ravin06&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## Codewars
 [![Badge](https://www.codewars.com/users/P3RPL3X/badges/micro)](https://www.codewars.com/users/P3RPL3X/)
+---
+
 
 
 
