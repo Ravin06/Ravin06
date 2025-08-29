@@ -1,7 +1,7 @@
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=roboto&color=%4568FF&size=18&vCenter=true&height=16&lines=Hi+there%2C+I%27m+Ravin)
 
-![Visitor Count](https://profile-counter.glitch.me/ravin06/count.svg)
+![Visitor Count](https://profile-counter.deno.dev/Ravin06/count.svg)
 
 # 💫 About Me:
 Currently a student<br>Interested in Cybersecurity and Programming
